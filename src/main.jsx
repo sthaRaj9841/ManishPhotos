@@ -17,7 +17,7 @@ import Works from "./pages/Works.jsx";
 import About from "./components/About/About.jsx";
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path="/" element={<Layout />}>
+    <Route path="/" element={<App />}>
       <Route index element={<Home />} />
       <Route path="about" element={<About />} />
       <Route path="contact" element={<Contact />} />
