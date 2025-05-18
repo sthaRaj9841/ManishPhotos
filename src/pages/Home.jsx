@@ -1,10 +1,10 @@
 import React from "react";
 import Landing from "../components/Landing/Landing";
 import About from "../components/About/About";
-import lifestyle from "../assets/lifestyle.JPG";
-import landscape from "../assets/landscape2.JPG";
-import animal from "../assets/animal2.JPG";
-import people from "../assets/people.JPG";
+import lifestyle from "../assets/lifestyle.jpg";
+import landscape from "../assets/landscape2.jpg";
+import animal from "../assets/animal2.jpg";
+import people from "../assets/people.jpg";
 import Card from "../components/Card/Card";
 
 const Home = () => {

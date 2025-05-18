@@ -1,9 +1,9 @@
 import React from "react";
 import bhagwati from "../../assets/bhagwati.jpg";
 import dailylife from "../../assets/dailylife.jpg";
-import dharahara from "../../assets/dharahara.JPG";
+import dharahara from "../../assets/dharahara.jpg";
 import fire from "../../assets/fire.jpg";
-import fire2 from "../../assets/fire2.JPG";
+import fire2 from "../../assets/fire2.jpg";
 import landscape from "../../assets/landscape.jpg";
 import monk from "../../assets/monk.jpg";
 import protest from "../../assets/protest.jpg";
@@ -12,7 +12,7 @@ import urban from "../../assets/urban.jpg";
 import { motion } from "motion/react";
 const About = () => {
   return (
-    <div  className="w-full h-screen  flex bg-gray-700 overflow-hidden">
+    <div className="w-full h-screen  flex bg-gray-700 overflow-hidden">
       <div className="w-1/2 bg-black text-white flex justify-between items-center">
         <div className="px-50">
           <h1 className="text-5xl font-bold mb-10">About</h1>
